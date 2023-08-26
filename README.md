@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/carla-ng/vue-movie-series-app/blob/master/src/assets/readme_image_1.jpg?raw=true" alt="Movie and Series App Project">
+</p>
+
+<br/>
+
 # Movie and Series App
 Vue app to search information about movies and series using OMDb API.
 
