@@ -10,7 +10,12 @@ Vue app to search information about movies and series using OMDb API.
 <br/>
 
 ## :globe_with_meridians: Demo
-https://carla-ng.github.io/vue-movie-series-app/
+https://carla-ng-movie-series-app.netlify.app/
+
+<br/>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/53fc9435-32e1-481b-9c4b-7af96840f58c/deploy-status)](https://app.netlify.com/sites/carla-ng-movie-series-app/deploys)
+
 
 <br/>
 
